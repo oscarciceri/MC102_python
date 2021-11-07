@@ -1,0 +1,16 @@
+Posicionando a panqueca 10
+Primeira inversao: 10 9 8 5 4 3 6 2 1 7
+Segunda inversao: 7 1 2 6 3 4 5 8 9 10
+Posicionando a panqueca 7
+Segunda inversao: 5 4 3 6 2 1 7 8 9 10
+Posicionando a panqueca 6
+Primeira inversao: 6 3 4 5 2 1 7 8 9 10
+Segunda inversao: 1 2 5 4 3 6 7 8 9 10
+Posicionando a panqueca 5
+Primeira inversao: 5 2 1 4 3 6 7 8 9 10
+Segunda inversao: 3 4 1 2 5 6 7 8 9 10
+Posicionando a panqueca 4
+Primeira inversao: 4 3 1 2 5 6 7 8 9 10
+Segunda inversao: 2 1 3 4 5 6 7 8 9 10
+Posicionando a panqueca 2
+Segunda inversao: 1 2 3 4 5 6 7 8 9 10
